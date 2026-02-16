@@ -4,12 +4,12 @@ Create personalized Valentine's Day cards for the Seismic community!
 
 ## Features
 
-- 🎨 Beautiful brand-colored design matching Seismic's aesthetic
-- 📸 Upload your profile picture
-- ✨ 8 different romantic crypto-themed messages
-- 🎊 Celebratory confetti animation
-- 💾 Download your personalized card
-- 📱 Fully responsive design
+-  Beautiful brand-colored design matching Seismic's aesthetic
+- Upload your profile picture
+-  8 different romantic crypto-themed messages
+- Celebratory confetti animation
+- Download your personalized card
+- Fully responsive design
 
 ## Tech Stack
 
@@ -30,4 +30,4 @@ npm run dev
 
 This project is optimized for Vercel deployment.
 
-Built with love ❤️ by raya for the seismic community
+Built with love ❤️ for the seismic community
